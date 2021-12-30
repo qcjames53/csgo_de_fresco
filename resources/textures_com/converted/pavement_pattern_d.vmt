@@ -1,6 +1,0 @@
-"LightmappedGeneric"
-{
-	"$basetexture" "de_patrica/pavement_pattern_d"
-	"$bumpmap" "de_patrica/pavement_pattern_d_n"
-	"$surfaceprop" "concrete"
-}

@@ -1,6 +1,0 @@
-de_memento
-de_precipice
-de_nucleo     (means center or core)
-
-Town name: Nadir (lowest point)
-Company Name: Zenit Semiconduttore (highest point semiconductor)

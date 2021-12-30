@@ -1,6 +1,0 @@
-"LightmappedGeneric"
-{
-	"$basetexture" "de_trinity/models/railing_42x8_corner_frame"
-	"$bumpmap" "de_trinity/models/railing_42x8_corner_frame_n"
-	"$surfaceprop" "Metal"
-}
