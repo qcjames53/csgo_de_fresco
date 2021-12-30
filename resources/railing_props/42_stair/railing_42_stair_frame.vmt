@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "de_trinity/models/railing_42_stair_frame"
+	"$bumpmap" "de_trinity/models/railing_42_stair_frame_n"
+	"$surfaceprop" "Metal"
+}

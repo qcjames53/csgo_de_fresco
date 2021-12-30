@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "de_trinity/models/railing_insert"
+	"$surfaceprop" "Metal"
+	"$translucent" 1
+	"$vertexalpha" 1
+}
