@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "9178"
-	"mapversion" "58"
+	"mapversion" "59"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "58"
+	"mapversion" "7609"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -950,7 +950,7 @@ entity
 entity
 {
 	"id" "2067"
-	"classname" "func_physbox"
+	"classname" "func_physbox_multiplayer"
 	"damagetoenablemotion" "0"
 	"Damagetype" "0"
 	"disableflashlight" "0"

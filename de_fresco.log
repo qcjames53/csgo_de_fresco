@@ -4968,3 +4968,494 @@ Total triangle count: 26000
 Writing c:\csgo\csgo_de_fresco\de_fresco.bsp
 MSG_FILEWRITE - Filesystem was asked to write to 'c:\csgo\csgo_de_fresco\de_fresco.bsp', but we don't own that location. Allowing...
 3 minutes, 30 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\csgo\csgo_de_fresco\de_fresco.vmf
+Map revision 7596
+Can't find surfaceprop stone for material DE_MIRAGE/GROUND/DE_MIRAGE_GROUND_TRIM_VER1_DIFFUSE, using default
+Material not found!: DE_PATRICA/BRICKS_B
+Material not found!: DE_PATRICA/PAVEMENT_PATTERN_A
+Patching WVT material: maps/de_fresco/de_dust/hr_dust/hr_dust_blend_rollupdoor_metal_01_blue_wvt_patch
+Patching WVT material: maps/de_fresco/de_aztec/hr_aztec/hr_aztec_blend_roof_stone_01_grey-moss_wvt_patch
+Patching WVT material: maps/de_fresco/de_aztec/hr_aztec/hr_aztec_blend_paver2-dirt4_wvt_patch
+Patching WVT material: maps/de_fresco/asphalt/asphalt_b1_blend_wvt_patch
+Patching WVT material: maps/de_fresco/brick/hr_brick/inferno/brick_m_blend_wvt_patch
+Patching WVT material: maps/de_fresco/plaster/hr_p/venice/plaster_orange_2_blend_wvt_patch
+Patching WVT material: maps/de_fresco/de_dust/hr_dust/hr_dust_blend_plaster_white_01b2_wvt_patch
+Patching WVT material: maps/de_fresco/brick/hr_brick/venice/brick_ground_a_blend_wvt_patch
+Patching WVT material: maps/de_fresco/de_dust/hr_dust/hr_dust_blend_asphalt_07_wvt_patch
+Patching WVT material: maps/de_fresco/de_aztec/hr_aztec/hr_aztec_blend_wall_stone_04_white-plaster_wvt_patch
+Patching WVT material: maps/de_fresco/de_dust/hr_dust/hr_dust_blend_rollupdoor_metal_01_red_wvt_patch
+Patching WVT material: maps/de_fresco/plaster/hr_p/venice/plaster_red_blend_wvt_patch
+Patching WVT material: maps/de_fresco/hr_massive/town_plaster_2_blend_1_wvt_patch
+Patching WVT material: maps/de_fresco/de_aztec/hr_aztec/hr_aztec_blend_wall_stone_01_grey-plaster_01_wvt_patch
+Patching WVT material: maps/de_fresco/de_dust/hr_dust/hr_dust_blend_rollupdoor_metal_03_red_wvt_patch
+Patching WVT material: maps/de_fresco/hr_massive/broken_road_1_blend_4_wvt_patch
+Patching WVT material: maps/de_fresco/de_dust/hr_dust/hr_dust_blend_plaster_white_01c_wvt_patch
+Patching WVT material: maps/de_fresco/plaster/hr_p/venice/plaster_brown_blend_wvt_patch
+Patching WVT material: maps/de_fresco/plaster/hr_p/inferno/plaster_i_blend_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 270 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+NODRAW on terrain surface!
+done (1)
+writing c:\csgo\csgo_de_fresco\de_fresco.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (915527 bytes)
+Error! prop_static using model "models/props_junk/trashbin01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_junk/trashbin01a.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 7664 texinfos to 3627
+Reduced 245 texdatas to 212 (8459 bytes to 6750)
+Writing c:\csgo\csgo_de_fresco\de_fresco.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\csgo\csgo_de_fresco\de_fresco.bsp', but we don't own that location. Allowing...
+5 seconds elapsed
+
+
+
+24 threads
+reading c:\csgo\csgo_de_fresco\de_fresco.bsp
+reading c:\csgo\csgo_de_fresco\de_fresco.prt
+1684 portalclusters
+5589 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 10822 visible clusters (0.00%)
+Total clusters visible: 886878
+Average clusters visible: 526
+Building PAS...
+Average clusters audible: 1581
+visdatasize:638548  compressed from 727488
+writing c:\csgo\csgo_de_fresco\de_fresco.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\csgo\csgo_de_fresco\de_fresco.bsp', but we don't own that location. Allowing...
+1 hour, 6 minutes, 52 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[40 texlights parsed from 'lights.rad']
+
+Loading c:\csgo\csgo_de_fresco\de_fresco.bsp
+8794 faces
+2 degenerate faces
+1635972 square feet [235580032.00 square inches]
+304 Displacements
+46713 Square Feet [6726794.00 Square Inches]
+8792 patches before subdivision
+84822 patches after subdivision
+6 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 9314358, max 1818
+transfer lists:  71.1 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(301867, 238532, 218971)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(43704, 26898, 19808)
+Build Patch/Sample Hash Table(s).....Done<0.0168 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 111/1024         5328/49152    (10.8%) 
+brushes               2269/8192        27228/98304    (27.7%) 
+brushsides           15970/81920      127760/655360   (19.5%) 
+planes                8976/65536      179520/1310720  (13.7%) 
+vertexes             17545/65536      210540/786432   (26.8%) 
+nodes                 4313/65536      138016/2097152  ( 6.6%) 
+texinfos              3627/12288      261144/884736   (29.5%) 
+texdata                212/4096         6784/131072   ( 5.2%) 
+dispinfos              304/0           53504/0        ( 0.0%) 
+disp_verts           19024/0          380480/0        ( 0.0%) 
+disp_tris            29312/0           58624/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples      201768/0          201768/0        ( 0.0%) 
+faces                 8794/65536      492464/3670016  (13.4%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             6124/65536      342944/3670016  ( 9.3%) 
+facebrushes            894/0            1788/0        ( 0.0%) 
+facebrushlists        8794/0           35176/0        ( 0.0%) 
+leaves                4425/65536      141600/2097152  ( 6.8%) 
+leaffaces            11032/65536       22064/131072   (16.8%) 
+leafbrushes           6881/65536       13762/131072   (10.5%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            68102/512000     272408/2048000  (13.3%) 
+edges                44120/256000     176480/1024000  (17.2%) 
+LDR worldlights          6/8192          600/819200   ( 0.1%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips            902/32768        9020/327680   ( 2.8%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         20619/65536       41238/131072   (31.5%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                50/1024        17600/360448   ( 4.9%) 
+LDR lightdata         [variable]     7481140/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      638548/16777216 ( 3.8%) 
+entdata               [variable]      131903/393216   (33.5%) 
+LDR ambient table     4425/65536       17700/262144   ( 6.8%) 
+HDR ambient table     4425/65536       17700/262144   ( 6.8%) 
+LDR leaf ambient     17439/65536      488292/1835008  (26.6%) 
+HDR leaf ambient      4425/65536      123900/1835008  ( 6.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/199672   ( 0.0%) 
+pakfile               [variable]    20494191/0        ( 0.0%) 
+physics               [variable]      915527/4194304  (21.8%) 
+physics terrain       [variable]       21560/1048576  ( 2.1%) 
+
+Level flags = 7d
+
+Total triangle count: 26131
+Writing c:\csgo\csgo_de_fresco\de_fresco.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\csgo\csgo_de_fresco\de_fresco.bsp', but we don't own that location. Allowing...
+3 minutes, 44 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\csgo\csgo_de_fresco\de_fresco.vmf
+Map revision 7608
+Can't find surfaceprop stone for material DE_MIRAGE/GROUND/DE_MIRAGE_GROUND_TRIM_VER1_DIFFUSE, using default
+Material not found!: DE_PATRICA/BRICKS_B
+Material not found!: DE_PATRICA/PAVEMENT_PATTERN_A
+Patching WVT material: maps/de_fresco/de_dust/hr_dust/hr_dust_blend_rollupdoor_metal_01_blue_wvt_patch
+Patching WVT material: maps/de_fresco/de_aztec/hr_aztec/hr_aztec_blend_roof_stone_01_grey-moss_wvt_patch
+Patching WVT material: maps/de_fresco/de_aztec/hr_aztec/hr_aztec_blend_paver2-dirt4_wvt_patch
+Patching WVT material: maps/de_fresco/asphalt/asphalt_b1_blend_wvt_patch
+Patching WVT material: maps/de_fresco/brick/hr_brick/inferno/brick_m_blend_wvt_patch
+Patching WVT material: maps/de_fresco/plaster/hr_p/venice/plaster_orange_2_blend_wvt_patch
+Patching WVT material: maps/de_fresco/de_dust/hr_dust/hr_dust_blend_plaster_white_01b2_wvt_patch
+Patching WVT material: maps/de_fresco/brick/hr_brick/venice/brick_ground_a_blend_wvt_patch
+Patching WVT material: maps/de_fresco/de_dust/hr_dust/hr_dust_blend_asphalt_07_wvt_patch
+Patching WVT material: maps/de_fresco/de_aztec/hr_aztec/hr_aztec_blend_wall_stone_04_white-plaster_wvt_patch
+Patching WVT material: maps/de_fresco/de_dust/hr_dust/hr_dust_blend_rollupdoor_metal_01_red_wvt_patch
+Patching WVT material: maps/de_fresco/plaster/hr_p/venice/plaster_red_blend_wvt_patch
+Patching WVT material: maps/de_fresco/hr_massive/town_plaster_2_blend_1_wvt_patch
+Patching WVT material: maps/de_fresco/de_aztec/hr_aztec/hr_aztec_blend_wall_stone_01_grey-plaster_01_wvt_patch
+Patching WVT material: maps/de_fresco/de_dust/hr_dust/hr_dust_blend_rollupdoor_metal_03_red_wvt_patch
+Patching WVT material: maps/de_fresco/hr_massive/broken_road_1_blend_4_wvt_patch
+Patching WVT material: maps/de_fresco/de_dust/hr_dust/hr_dust_blend_plaster_white_01c_wvt_patch
+Patching WVT material: maps/de_fresco/plaster/hr_p/venice/plaster_brown_blend_wvt_patch
+Patching WVT material: maps/de_fresco/plaster/hr_p/inferno/plaster_i_blend_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (1)
+Find Visible Detail Sides...
+Merged 286 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+NODRAW on terrain surface!
+done (0)
+writing c:\csgo\csgo_de_fresco\de_fresco.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (915671 bytes)
+Error! prop_static using model "models/props_junk/trashbin01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_junk/trashbin01a.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 7573 texinfos to 3581
+Reduced 245 texdatas to 212 (8459 bytes to 6750)
+Writing c:\csgo\csgo_de_fresco\de_fresco.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\csgo\csgo_de_fresco\de_fresco.bsp', but we don't own that location. Allowing...
+5 seconds elapsed
+
+
+
+24 threads
+reading c:\csgo\csgo_de_fresco\de_fresco.bsp
+reading c:\csgo\csgo_de_fresco\de_fresco.prt
+1684 portalclusters
+5589 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 105804 visible clusters (0.00%)
+Total clusters visible: 2239844
+Average clusters visible: 1330
+Building PAS...
+Average clusters audible: 1647
+visdatasize:704870  compressed from 727488
+writing c:\csgo\csgo_de_fresco\de_fresco.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\csgo\csgo_de_fresco\de_fresco.bsp', but we don't own that location. Allowing...
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[40 texlights parsed from 'lights.rad']
+
+Loading c:\csgo\csgo_de_fresco\de_fresco.bsp
+8786 faces
+2 degenerate faces
+1636019 square feet [235586816.00 square inches]
+304 Displacements
+46713 Square Feet [6726794.00 Square Inches]
+8784 patches before subdivision
+84814 patches after subdivision
+6 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 9313153, max 1818
+transfer lists:  71.1 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(299204, 236129, 217391)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(42670, 26034, 19294)
+Build Patch/Sample Hash Table(s).....Done<0.0164 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\csgo\csgo_de_fresco\de_fresco.vmf
+Map revision 7609
+Can't find surfaceprop stone for material DE_MIRAGE/GROUND/DE_MIRAGE_GROUND_TRIM_VER1_DIFFUSE, using default
+Material not found!: DE_PATRICA/BRICKS_B
+Material not found!: DE_PATRICA/PAVEMENT_PATTERN_A
+Patching WVT material: maps/de_fresco/de_dust/hr_dust/hr_dust_blend_rollupdoor_metal_01_blue_wvt_patch
+Patching WVT material: maps/de_fresco/de_aztec/hr_aztec/hr_aztec_blend_roof_stone_01_grey-moss_wvt_patch
+Patching WVT material: maps/de_fresco/de_aztec/hr_aztec/hr_aztec_blend_paver2-dirt4_wvt_patch
+Patching WVT material: maps/de_fresco/asphalt/asphalt_b1_blend_wvt_patch
+Patching WVT material: maps/de_fresco/brick/hr_brick/inferno/brick_m_blend_wvt_patch
+Patching WVT material: maps/de_fresco/plaster/hr_p/venice/plaster_orange_2_blend_wvt_patch
+Patching WVT material: maps/de_fresco/de_dust/hr_dust/hr_dust_blend_plaster_white_01b2_wvt_patch
+Patching WVT material: maps/de_fresco/brick/hr_brick/venice/brick_ground_a_blend_wvt_patch
+Patching WVT material: maps/de_fresco/de_dust/hr_dust/hr_dust_blend_asphalt_07_wvt_patch
+Patching WVT material: maps/de_fresco/de_aztec/hr_aztec/hr_aztec_blend_wall_stone_04_white-plaster_wvt_patch
+Patching WVT material: maps/de_fresco/de_dust/hr_dust/hr_dust_blend_rollupdoor_metal_01_red_wvt_patch
+Patching WVT material: maps/de_fresco/plaster/hr_p/venice/plaster_red_blend_wvt_patch
+Patching WVT material: maps/de_fresco/hr_massive/town_plaster_2_blend_1_wvt_patch
+Patching WVT material: maps/de_fresco/de_aztec/hr_aztec/hr_aztec_blend_wall_stone_01_grey-plaster_01_wvt_patch
+Patching WVT material: maps/de_fresco/de_dust/hr_dust/hr_dust_blend_rollupdoor_metal_03_red_wvt_patch
+Patching WVT material: maps/de_fresco/hr_massive/broken_road_1_blend_4_wvt_patch
+Patching WVT material: maps/de_fresco/de_dust/hr_dust/hr_dust_blend_plaster_white_01c_wvt_patch
+Patching WVT material: maps/de_fresco/plaster/hr_p/venice/plaster_brown_blend_wvt_patch
+Patching WVT material: maps/de_fresco/plaster/hr_p/inferno/plaster_i_blend_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 286 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+NODRAW on terrain surface!
+done (1)
+writing c:\csgo\csgo_de_fresco\de_fresco.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (915671 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 7573 texinfos to 3581
+Reduced 245 texdatas to 212 (8459 bytes to 6750)
+Writing c:\csgo\csgo_de_fresco\de_fresco.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\csgo\csgo_de_fresco\de_fresco.bsp', but we don't own that location. Allowing...
+5 seconds elapsed
+
+
+
+24 threads
+reading c:\csgo\csgo_de_fresco\de_fresco.bsp
+reading c:\csgo\csgo_de_fresco\de_fresco.prt
+1684 portalclusters
+5589 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 105804 visible clusters (0.00%)
+Total clusters visible: 2239844
+Average clusters visible: 1330
+Building PAS...
+Average clusters audible: 1647
+visdatasize:704870  compressed from 727488
+writing c:\csgo\csgo_de_fresco\de_fresco.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\csgo\csgo_de_fresco\de_fresco.bsp', but we don't own that location. Allowing...
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[40 texlights parsed from 'lights.rad']
+
+Loading c:\csgo\csgo_de_fresco\de_fresco.bsp
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\csgo\csgo_de_fresco\de_fresco.vmf
+Map revision 7610
+Can't find surfaceprop stone for material DE_MIRAGE/GROUND/DE_MIRAGE_GROUND_TRIM_VER1_DIFFUSE, using default
+Material not found!: DE_PATRICA/BRICKS_B
+Material not found!: DE_PATRICA/PAVEMENT_PATTERN_A
+Patching WVT material: maps/de_fresco/de_dust/hr_dust/hr_dust_blend_rollupdoor_metal_01_blue_wvt_patch
+Patching WVT material: maps/de_fresco/de_aztec/hr_aztec/hr_aztec_blend_roof_stone_01_grey-moss_wvt_patch
+Patching WVT material: maps/de_fresco/de_aztec/hr_aztec/hr_aztec_blend_paver2-dirt4_wvt_patch
+Patching WVT material: maps/de_fresco/asphalt/asphalt_b1_blend_wvt_patch
+Patching WVT material: maps/de_fresco/brick/hr_brick/inferno/brick_m_blend_wvt_patch
+Patching WVT material: maps/de_fresco/plaster/hr_p/venice/plaster_orange_2_blend_wvt_patch
+Patching WVT material: maps/de_fresco/de_dust/hr_dust/hr_dust_blend_plaster_white_01b2_wvt_patch
+Patching WVT material: maps/de_fresco/brick/hr_brick/venice/brick_ground_a_blend_wvt_patch
+Patching WVT material: maps/de_fresco/de_dust/hr_dust/hr_dust_blend_asphalt_07_wvt_patch
+Patching WVT material: maps/de_fresco/de_aztec/hr_aztec/hr_aztec_blend_wall_stone_04_white-plaster_wvt_patch
+Patching WVT material: maps/de_fresco/de_dust/hr_dust/hr_dust_blend_rollupdoor_metal_01_red_wvt_patch
+Patching WVT material: maps/de_fresco/plaster/hr_p/venice/plaster_red_blend_wvt_patch
+Patching WVT material: maps/de_fresco/hr_massive/town_plaster_2_blend_1_wvt_patch
+Patching WVT material: maps/de_fresco/de_aztec/hr_aztec/hr_aztec_blend_wall_stone_01_grey-plaster_01_wvt_patch
+Patching WVT material: maps/de_fresco/de_dust/hr_dust/hr_dust_blend_rollupdoor_metal_03_red_wvt_patch
+Patching WVT material: maps/de_fresco/hr_massive/broken_road_1_blend_4_wvt_patch
+Patching WVT material: maps/de_fresco/de_dust/hr_dust/hr_dust_blend_plaster_white_01c_wvt_patch
+Patching WVT material: maps/de_fresco/plaster/hr_p/venice/plaster_brown_blend_wvt_patch
+Patching WVT material: maps/de_fresco/plaster/hr_p/inferno/plaster_i_blend_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 286 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+NODRAW on terrain surface!
+done (1)
+writing c:\csgo\csgo_de_fresco\de_fresco.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (915671 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 7573 texinfos to 3581
+Reduced 245 texdatas to 212 (8457 bytes to 6748)
+Writing c:\csgo\csgo_de_fresco\de_fresco.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\csgo\csgo_de_fresco\de_fresco.bsp', but we don't own that location. Allowing...
+4 seconds elapsed
+
+
+
+24 threads
+reading c:\csgo\csgo_de_fresco\de_fresco.bsp
+reading c:\csgo\csgo_de_fresco\de_fresco.prt
+1684 portalclusters
+5589 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 105804 visible clusters (0.00%)
+Total clusters visible: 2239844
+Average clusters visible: 1330
+Building PAS...
+Average clusters audible: 1647
+visdatasize:704870  compressed from 727488
+writing c:\csgo\csgo_de_fresco\de_fresco.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\csgo\csgo_de_fresco\de_fresco.bsp', but we don't own that location. Allowing...
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[40 texlights parsed from 'lights.rad']
+
+Loading c:\csgo\csgo_de_fresco\de_fresco.bsp
+8786 faces
+2 degenerate faces
+1636019 square feet [235586816.00 square inches]
+304 Displacements
+46713 Square Feet [6726794.00 Square Inches]
+8784 patches before subdivision
+84814 patches after subdivision
+6 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 9313153, max 1818
+transfer lists:  71.1 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(299204, 236129, 217391)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(42670, 26034, 19294)
+Build Patch/Sample Hash Table(s).....Done<0.0160 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 111/1024         5328/49152    (10.8%) 
+brushes               2269/8192        27228/98304    (27.7%) 
+brushsides           15970/81920      127760/655360   (19.5%) 
+planes                8976/65536      179520/1310720  (13.7%) 
+vertexes             17551/65536      210612/786432   (26.8%) 
+nodes                 4313/65536      138016/2097152  ( 6.6%) 
+texinfos              3581/12288      257832/884736   (29.1%) 
+texdata                212/4096         6784/131072   ( 5.2%) 
+dispinfos              304/0           53504/0        ( 0.0%) 
+disp_verts           19024/0          380480/0        ( 0.0%) 
+disp_tris            29312/0           58624/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples      201768/0          201768/0        ( 0.0%) 
+faces                 8786/65536      492016/3670016  (13.4%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             6116/65536      342496/3670016  ( 9.3%) 
+facebrushes            908/0            1816/0        ( 0.0%) 
+facebrushlists        8786/0           35144/0        ( 0.0%) 
+leaves                4425/65536      141600/2097152  ( 6.8%) 
+leaffaces            11014/65536       22028/131072   (16.8%) 
+leafbrushes           6881/65536       13762/131072   (10.5%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            68077/512000     272308/2048000  (13.3%) 
+edges                44118/256000     176472/1024000  (17.2%) 
+LDR worldlights          6/8192          600/819200   ( 0.1%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips            911/32768        9110/327680   ( 2.8%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         20805/65536       41610/131072   (31.7%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                50/1024        17600/360448   ( 4.9%) 
+LDR lightdata         [variable]     7524932/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      704870/16777216 ( 4.2%) 
+entdata               [variable]      132781/393216   (33.8%) 
+LDR ambient table     4425/65536       17700/262144   ( 6.8%) 
+HDR ambient table     4425/65536       17700/262144   ( 6.8%) 
+LDR leaf ambient     17442/65536      488376/1835008  (26.6%) 
+HDR leaf ambient      4425/65536      123900/1835008  ( 6.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/199672   ( 0.0%) 
+pakfile               [variable]    20494191/0        ( 0.0%) 
+physics               [variable]      915671/4194304  (21.8%) 
+physics terrain       [variable]       21560/1048576  ( 2.1%) 
+
+Level flags = 7d
+
+Total triangle count: 26154
+Writing c:\csgo\csgo_de_fresco\de_fresco.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\csgo\csgo_de_fresco\de_fresco.bsp', but we don't own that location. Allowing...
+3 minutes, 42 seconds elapsed
