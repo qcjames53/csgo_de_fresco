@@ -5351,3 +5351,136 @@ Total triangle count: 214
 Writing c:\csgo\csgo_de_fresco\testmap.bsp
 MSG_FILEWRITE - Filesystem was asked to write to 'c:\csgo\csgo_de_fresco\testmap.bsp', but we don't own that location. Allowing...
 0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\csgo\csgo_de_fresco\testmap.vmf
+Map revision 65
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\csgo\csgo_de_fresco\testmap.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (10276 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 92 texinfos to 40
+Reduced 12 texdatas to 11 (278 bytes to 239)
+Writing c:\csgo\csgo_de_fresco\testmap.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\csgo\csgo_de_fresco\testmap.bsp', but we don't own that location. Allowing...
+0 seconds elapsed
+
+
+
+24 threads
+reading c:\csgo\csgo_de_fresco\testmap.bsp
+reading c:\csgo\csgo_de_fresco\testmap.prt
+  22 portalclusters
+  57 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 476
+Average clusters visible: 21
+Building PAS...
+Average clusters audible: 22
+visdatasize:312  compressed from 352
+writing c:\csgo\csgo_de_fresco\testmap.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\csgo\csgo_de_fresco\testmap.bsp', but we don't own that location. Allowing...
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[40 texlights parsed from 'lights.rad']
+
+Loading c:\csgo\csgo_de_fresco\testmap.bsp
+100 faces
+27990 square feet [4030688.00 square inches]
+2 Displacements
+1088 Square Feet [156672.00 Square Inches]
+100 patches before subdivision
+1076 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 14315, max 181
+transfer lists:   0.1 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(4138, 4326, 5061)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(104, 88, 99)
+Build Patch/Sample Hash Table(s).....Done<0.0002 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  12/1024          576/49152    ( 1.2%) 
+brushes                 22/8192          264/98304    ( 0.3%) 
+brushsides             132/81920        1056/655360   ( 0.2%) 
+planes                 228/65536        4560/1310720  ( 0.3%) 
+vertexes               186/65536        2232/786432   ( 0.3%) 
+nodes                  119/65536        3808/2097152  ( 0.2%) 
+texinfos                40/12288        2880/884736   ( 0.3%) 
+texdata                 11/4096          352/131072   ( 0.3%) 
+dispinfos                2/0             352/0        ( 0.0%) 
+disp_verts             162/0            3240/0        ( 0.0%) 
+disp_tris              256/0             512/0        ( 0.0%) 
+disp_multiblend        162/0           12960/0        ( 0.0%) 
+disp_lmsamples        3040/0            3040/0        ( 0.0%) 
+faces                  100/65536        5600/3670016  ( 0.2%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces               76/65536        4256/3670016  ( 0.1%) 
+facebrushes              0/0               0/0        ( 0.0%) 
+facebrushlists         100/0             400/0        ( 0.0%) 
+leaves                 132/65536        4224/2097152  ( 0.2%) 
+leaffaces              142/65536         284/131072   ( 0.2%) 
+leafbrushes             44/65536          88/131072   ( 0.1%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges              712/512000       2848/2048000  ( 0.1%) 
+edges                  392/256000       1568/1024000  ( 0.2%) 
+LDR worldlights          2/8192          200/819200   ( 0.0%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips              0/32768           0/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices             0/65536           0/131072   ( 0.0%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]       62048/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]         312/16777216 ( 0.0%) 
+entdata               [variable]       15310/393216   ( 3.9%) 
+LDR ambient table      132/65536         528/262144   ( 0.2%) 
+HDR ambient table      132/65536         528/262144   ( 0.2%) 
+LDR leaf ambient       248/65536        6944/1835008  ( 0.4%) 
+HDR leaf ambient       132/65536        3696/1835008  ( 0.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/39140    ( 0.0%) 
+dtl prp lght          [variable]           1/4        (25.0%) 
+HDR dtl prp lght      [variable]           1/4        (25.0%) 
+static props          [variable]           1/230      ( 0.4%) 
+pakfile               [variable]       89366/0        ( 0.0%) 
+physics               [variable]       10276/4194304  ( 0.2%) 
+physics terrain       [variable]         108/1048576  ( 0.0%) 
+
+Level flags = 7d
+
+Total triangle count: 208
+Writing c:\csgo\csgo_de_fresco\testmap.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\csgo\csgo_de_fresco\testmap.bsp', but we don't own that location. Allowing...
+0 seconds elapsed
