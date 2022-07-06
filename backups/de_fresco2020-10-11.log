@@ -1,0 +1,130 @@
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\csgo\csgo_de_arco\backups\de_fresco2020-10-11.vmf
+Map revision 330
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\csgo\csgo_de_arco\backups\de_fresco2020-10-11.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (165323 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 798 texinfos to 569
+Reduced 9 texdatas to 9 (187 bytes to 187)
+Writing c:\csgo\csgo_de_arco\backups\de_fresco2020-10-11.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\csgo\csgo_de_arco\backups\de_fresco2020-10-11.bsp', but we don't own that location. Allowing...
+0 seconds elapsed
+
+
+
+24 threads
+reading c:\csgo\csgo_de_arco\backups\de_fresco2020-10-11.bsp
+reading c:\csgo\csgo_de_arco\backups\de_fresco2020-10-11.prt
+1037 portalclusters
+2917 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 71556 visible clusters (0.00%)
+Total clusters visible: 800811
+Average clusters visible: 772
+Building PAS...
+Average clusters audible: 1036
+visdatasize:276017  compressed from 282064
+writing c:\csgo\csgo_de_arco\backups\de_fresco2020-10-11.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\csgo\csgo_de_arco\backups\de_fresco2020-10-11.bsp', but we don't own that location. Allowing...
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[40 texlights parsed from 'lights.rad']
+
+Loading c:\csgo\csgo_de_arco\backups\de_fresco2020-10-11.bsp
+3818 faces
+1271624 square feet [183113984.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+3818 patches before subdivision
+52632 patches after subdivision
+10 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 3172906, max 814
+transfer lists:  24.2 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(531033, 207354, 90183)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(232985, 30881, 1532)
+Build Patch/Sample Hash Table(s).....Done<0.0068 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   5/1024          240/49152    ( 0.5%) 
+brushes                460/8192         5520/98304    ( 5.6%) 
+brushsides            2926/81920       23408/655360   ( 3.6%) 
+planes                1392/65536       27840/1310720  ( 2.1%) 
+vertexes              5448/65536       65376/786432   ( 8.3%) 
+nodes                 2140/65536       68480/2097152  ( 3.3%) 
+texinfos               569/12288       40968/884736   ( 4.6%) 
+texdata                  9/4096          288/131072   ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 3818/65536      213808/3670016  ( 5.8%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             1720/65536       96320/3670016  ( 2.6%) 
+facebrushes            217/0             434/0        ( 0.0%) 
+facebrushlists        3818/0           15272/0        ( 0.0%) 
+leaves                2146/65536       68672/2097152  ( 3.3%) 
+leaffaces             4086/65536        8172/131072   ( 6.2%) 
+leafbrushes           1362/65536        2724/131072   ( 2.1%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            25438/512000     101752/2048000  ( 5.0%) 
+edges                14095/256000      56380/1024000  ( 5.5%) 
+LDR worldlights         10/8192         1000/819200   ( 0.1%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            256/32768        2560/327680   ( 0.8%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          4431/65536        8862/131072   ( 6.8%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]     2174628/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      276017/16777216 ( 1.6%) 
+entdata               [variable]        6223/393216   ( 1.6%) 
+LDR ambient table     2146/65536        8584/262144   ( 3.3%) 
+HDR ambient table     2146/65536        8584/262144   ( 3.3%) 
+LDR leaf ambient     11698/65536      327544/1835008  (17.8%) 
+HDR leaf ambient      2146/65536       60088/1835008  ( 3.3%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/15768    ( 0.0%) 
+pakfile               [variable]     2175182/0        ( 0.0%) 
+physics               [variable]      165323/4194304  ( 3.9%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 7d
+
+Total triangle count: 10908
+Writing c:\csgo\csgo_de_arco\backups\de_fresco2020-10-11.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\csgo\csgo_de_arco\backups\de_fresco2020-10-11.bsp', but we don't own that location. Allowing...
+14 seconds elapsed
