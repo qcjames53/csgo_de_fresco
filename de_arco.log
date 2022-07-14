@@ -1743,3 +1743,388 @@ Total triangle count: 33653
 Writing c:\csgo\csgo_de_arco\de_arco.bsp
 MSG_FILEWRITE - Filesystem was asked to write to 'c:\csgo\csgo_de_arco\de_arco.bsp', but we don't own that location. Allowing...
 6 minutes, 35 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\csgo\csgo_de_arco\de_arco.vmf
+Map revision 11018
+Can't find surfaceprop stone for material DE_MIRAGE/GROUND/DE_MIRAGE_GROUND_TRIM_VER1_DIFFUSE, using default
+Material not found!: DE_PATRICA/BRICKS_B
+Material not found!: DE_PATRICA/PAVEMENT_PATTERN_A
+Patching WVT material: maps/de_arco/de_aztec/hr_aztec/hr_aztec_blend_groundpaver01-grounddirt01_wvt_patch
+Patching WVT material: maps/de_arco/ground/hr_g/hr_gravel_grass_001b_blend_wvt_patch
+Patching WVT material: maps/de_arco/de_aztec/hr_aztec/hr_aztec_blend_paver2-dirt4_wvt_patch
+Patching WVT material: maps/de_arco/plaster/hr_p/venice/plaster_orange_blend_wvt_patch
+Patching WVT material: maps/de_arco/brick/hr_brick/venice/brick_ground_a_blend_wvt_patch
+Patching WVT material: maps/de_arco/plaster/hr_p/inferno/plaster_i_blend_wvt_patch
+Patching WVT material: maps/de_arco/plaster/hr_p/inferno/plaster_g_blend_02_wvt_patch
+Patching WVT material: maps/de_arco/de_dust/hr_dust/hr_dust_blend_rollupdoor_metal_01_blue_wvt_patch
+Patching WVT material: maps/de_arco/de_aztec/hr_aztec/hr_aztec_blend_roof_stone_01_grey-moss_wvt_patch
+Patching WVT material: maps/de_arco/plaster/hr_p/venice/venice_plaster_blend_1_yellow_wvt_patch
+Patching WVT material: maps/de_arco/brick/hr_brick/inferno/brick_m_blend_wvt_patch
+Patching WVT material: maps/de_arco/plaster/hr_p/venice/plaster_orange_2_blend_wvt_patch
+Patching WVT material: maps/de_arco/de_aztec/hr_aztec/hr_aztec_blend_wall_stone_04_white-plaster_wvt_patch
+Patching WVT material: maps/de_arco/plaster/hr_p/venice/plaster_red_blend_wvt_patch
+Patching WVT material: maps/de_arco/hr_massive/town_plaster_2_blend_1_wvt_patch
+Patching WVT material: maps/de_arco/de_dust/hr_dust/hr_dust_blend_plaster_white_01b2_wvt_patch
+Patching WVT material: maps/de_arco/de_dust/hr_dust/hr_dust_plaster_17b_wvt_patch
+Patching WVT material: maps/de_arco/hr_massive/broken_road_1_blend_4_wvt_patch
+Patching WVT material: maps/de_arco/de_dust/hr_dust/hr_dust_blend_rollupdoor_metal_01_red_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1068 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\csgo\csgo_de_arco\de_arco.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (1573650 bytes)
+Static prop models/props/de_dust/hr_dust/dust_windows/dust_window_36x64_01.mdl outside the map (672.00, -888.00, -311.28)
+Static prop models/props/de_dust/hr_dust/dust_windows/dust_window_shutters_36x64_01_open.mdl outside the map (672.00, -888.00, -311.28)
+Static prop models/props/de_venice/bridge_railing/bridge_railing_128.mdl outside the map (2608.00, 1864.00, 384.00)
+Static prop models/props/de_train/de_train_doorhandle_01.mdl outside the map (495.00, -359.00, 127.00)
+Static prop models/q_custom/railing_42_post.mdl outside the map (420.00, -690.00, -116.00)
+Static prop models/props/de_dust/hr_dust/dust_windows/dust_window_24x24_01_lod1.mdl outside the map (486.91, -535.33, 203.00)
+Static prop models/props/de_dust/hr_dust/dust_windows/dust_window_24x24_01_lod1.mdl outside the map (486.91, -583.33, 203.00)
+Static prop models/props/de_dust/hr_dust/dust_windows/dust_window_24x24_01_lod1.mdl outside the map (486.91, -631.33, 203.00)
+Static prop models/props/de_dust/hr_dust/dust_windows/dust_window_24x24_01_lod1.mdl outside the map (486.91, -679.33, 203.00)
+Static prop models/props/de_dust/hr_dust/dust_windows/dust_window_24x24_01_lod1.mdl outside the map (486.91, -727.33, 203.00)
+Static prop models/props/de_inferno/hr_i/inferno_concrete_trim/inferno_concrete_trim_128.mdl outside the map (-973.00, 386.00, 200.00)
+Static prop models/props/de_inferno/hr_i/inferno_window_guard/inferno_window_guard.mdl outside the map (-768.00, 190.00, 285.00)
+Static prop models/props/de_dust/hr_dust/dust_windows/dust_window_36x64_01_lod1.mdl outside the map (881.00, -1040.00, -15.28)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 14501 texinfos to 5915
+Reduced 805 texdatas to 606 (39637 bytes to 29607)
+Writing c:\csgo\csgo_de_arco\de_arco.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\csgo\csgo_de_arco\de_arco.bsp', but we don't own that location. Allowing...
+9 seconds elapsed
+
+
+
+24 threads
+reading c:\csgo\csgo_de_arco\de_arco.bsp
+reading c:\csgo\csgo_de_arco\de_arco.prt
+1660 portalclusters
+5268 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 13938 visible clusters (0.00%)
+Total clusters visible: 677937
+Average clusters visible: 408
+Building PAS...
+Average clusters audible: 1372
+visdatasize:536942  compressed from 690560
+writing c:\csgo\csgo_de_arco\de_arco.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\csgo\csgo_de_arco\de_arco.bsp', but we don't own that location. Allowing...
+8 minutes, 8 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[40 texlights parsed from 'lights.rad']
+
+Loading c:\csgo\csgo_de_arco\de_arco.bsp
+12217 faces
+4 degenerate faces
+2533192 square feet [364779648.00 square inches]
+412 Displacements
+714475 Square Feet [102884448.00 Square Inches]
+12213 patches before subdivision
+115907 patches after subdivision
+WARNING: light_spot at (9384 241 464) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (9384 1341 464) has outer angle larger than 90 degrees! Clamping to 90...
+54 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 11060235, max 1878
+transfer lists:  84.4 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(453030, 410283, 404347)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(85202, 66933, 57005)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(22392, 16390, 13015)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(8960, 6213, 4672)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(4099, 2706, 1947)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(2172, 1349, 923)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(1198, 696, 453)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(688, 371, 229)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(399, 200, 117)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(234, 109, 61)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(137, 59, 31)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(81, 32, 16)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(48, 18, 9)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(28, 10, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(17, 5, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(10, 3, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #17 added RGB(6, 2, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #18 added RGB(3, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #19 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #20 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #21 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0214 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
+0 of 4 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 165/1024         7920/49152    (16.1%) 
+brushes               4018/8192        48216/98304    (49.0%) 
+brushsides           32304/81920      258432/655360   (39.4%) 
+planes               21208/65536      424160/1310720  (32.4%) 
+vertexes             24862/65536      298344/786432   (37.9%) 
+nodes                 5825/65536      186400/2097152  ( 8.9%) 
+texinfos              5915/12288      425880/884736   (48.1%) 
+texdata                606/4096        19392/131072   (14.8%) 
+dispinfos              412/0           72512/0        ( 0.0%) 
+disp_verts           21444/0          428880/0        ( 0.0%) 
+disp_tris            32288/0           64576/0        ( 0.0%) 
+disp_multiblend       4347/0          347760/0        ( 0.0%) 
+disp_lmsamples      559824/0          559824/0        ( 0.0%) 
+faces                12217/65536      684152/3670016  (18.6%) 
+hdr faces            12217/65536      684152/3670016  (18.6%) 
+origfaces             9370/65536      524720/3670016  (14.3%) 
+facebrushes           1135/0            2270/0        ( 0.0%) 
+facebrushlists       12217/0           48868/0        ( 0.0%) 
+leaves                5991/65536      191712/2097152  ( 9.1%) 
+leaffaces            17562/65536       35124/131072   (26.8%) 
+leafbrushes          13388/65536       26776/131072   (20.4%) 
+areas                    9/1024           72/8192     ( 0.9%) 
+surfedges            95310/512000     381240/2048000  (18.6%) 
+edges                61512/256000     246048/1024000  (24.0%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights         54/8192         5400/819200   ( 0.7%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips           1476/32768       14760/327680   ( 4.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         26268/65536       52536/131072   (40.1%) 
+cubemapsamples          81/1024         1296/16384    ( 7.9%) 
+overlays               122/1024        42944/360448   (11.9%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]    12732896/0        ( 0.0%) 
+visdata               [variable]      536942/16777216 ( 3.2%) 
+entdata               [variable]      267764/393216   (68.1%) 
+LDR ambient table     5991/65536       23964/262144   ( 9.1%) 
+HDR ambient table     5991/65536       23964/262144   ( 9.1%) 
+LDR leaf ambient      5991/65536      167748/1835008  ( 9.1%) 
+HDR leaf ambient     27014/65536      756392/1835008  (41.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/591016   ( 0.0%) 
+dtl prp lght          [variable]           1/4        (25.0%) 
+HDR dtl prp lght      [variable]           1/4        (25.0%) 
+static props          [variable]           1/308958   ( 0.0%) 
+pakfile               [variable]    40732626/0        ( 0.0%) 
+physics               [variable]     1573650/4194304  (37.5%) 
+physics terrain       [variable]       40780/1048576  ( 3.9%) 
+
+Level flags = 7e
+
+Total triangle count: 33771
+Writing c:\csgo\csgo_de_arco\de_arco.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\csgo\csgo_de_arco\de_arco.bsp', but we don't own that location. Allowing...
+6 minutes, 20 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\csgo\csgo_de_arco\de_arco.vmf
+Map revision 11056
+Can't find surfaceprop stone for material DE_MIRAGE/GROUND/DE_MIRAGE_GROUND_TRIM_VER1_DIFFUSE, using default
+Material not found!: DE_PATRICA/BRICKS_B
+Material not found!: DE_PATRICA/PAVEMENT_PATTERN_A
+Patching WVT material: maps/de_arco/de_aztec/hr_aztec/hr_aztec_blend_groundpaver01-grounddirt01_wvt_patch
+Patching WVT material: maps/de_arco/ground/hr_g/hr_gravel_grass_001b_blend_wvt_patch
+Patching WVT material: maps/de_arco/de_aztec/hr_aztec/hr_aztec_blend_paver2-dirt4_wvt_patch
+Patching WVT material: maps/de_arco/plaster/hr_p/venice/plaster_orange_blend_wvt_patch
+Patching WVT material: maps/de_arco/brick/hr_brick/venice/brick_ground_a_blend_wvt_patch
+Patching WVT material: maps/de_arco/plaster/hr_p/inferno/plaster_i_blend_wvt_patch
+Patching WVT material: maps/de_arco/plaster/hr_p/inferno/plaster_g_blend_02_wvt_patch
+Patching WVT material: maps/de_arco/de_dust/hr_dust/hr_dust_blend_rollupdoor_metal_01_blue_wvt_patch
+Patching WVT material: maps/de_arco/de_aztec/hr_aztec/hr_aztec_blend_roof_stone_01_grey-moss_wvt_patch
+Patching WVT material: maps/de_arco/plaster/hr_p/venice/venice_plaster_blend_1_yellow_wvt_patch
+Patching WVT material: maps/de_arco/brick/hr_brick/inferno/brick_m_blend_wvt_patch
+Patching WVT material: maps/de_arco/plaster/hr_p/venice/plaster_orange_2_blend_wvt_patch
+Patching WVT material: maps/de_arco/de_aztec/hr_aztec/hr_aztec_blend_wall_stone_04_white-plaster_wvt_patch
+Patching WVT material: maps/de_arco/plaster/hr_p/venice/plaster_red_blend_wvt_patch
+Patching WVT material: maps/de_arco/hr_massive/town_plaster_2_blend_1_wvt_patch
+Patching WVT material: maps/de_arco/de_dust/hr_dust/hr_dust_blend_plaster_white_01b2_wvt_patch
+Patching WVT material: maps/de_arco/de_dust/hr_dust/hr_dust_plaster_17b_wvt_patch
+Patching WVT material: maps/de_arco/hr_massive/broken_road_1_blend_4_wvt_patch
+Patching WVT material: maps/de_arco/de_dust/hr_dust/hr_dust_blend_rollupdoor_metal_01_red_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1168 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing c:\csgo\csgo_de_arco\de_arco.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (1582322 bytes)
+Static prop models/props/de_dust/hr_dust/dust_windows/dust_window_24x24_01_lod1.mdl outside the map (486.91, -727.33, 203.00)
+Static prop models/props/de_dust/hr_dust/dust_windows/dust_window_24x24_01_lod1.mdl outside the map (486.91, -679.33, 203.00)
+Static prop models/props/de_dust/hr_dust/dust_windows/dust_window_24x24_01_lod1.mdl outside the map (486.91, -631.33, 203.00)
+Static prop models/props/de_dust/hr_dust/dust_windows/dust_window_24x24_01_lod1.mdl outside the map (486.91, -583.33, 203.00)
+Static prop models/props/de_dust/hr_dust/dust_windows/dust_window_24x24_01_lod1.mdl outside the map (486.91, -535.33, 203.00)
+Static prop models/q_custom/railing_42_post.mdl outside the map (420.00, -690.00, -116.00)
+Static prop models/props/de_dust/hr_dust/dust_windows/dust_window_36x64_01.mdl outside the map (672.00, -888.00, -311.28)
+Static prop models/props/de_dust/hr_dust/dust_windows/dust_window_shutters_36x64_01_open.mdl outside the map (672.00, -888.00, -311.28)
+Static prop models/props/de_venice/bridge_railing/bridge_railing_128.mdl outside the map (2608.00, 1864.00, 384.00)
+Static prop models/props/de_dust/hr_dust/dust_windows/dust_window_36x64_01_lod1.mdl outside the map (881.00, -1040.00, -15.28)
+Static prop models/props/de_inferno/hr_i/inferno_window_guard/inferno_window_guard.mdl outside the map (-768.00, 190.00, 285.00)
+Static prop models/props/de_train/de_train_doorhandle_01.mdl outside the map (495.00, -359.00, 127.00)
+Static prop models/props/de_inferno/hr_i/inferno_concrete_trim/inferno_concrete_trim_128.mdl outside the map (-973.00, 386.00, 200.00)
+Error loading studio model ""!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 14553 texinfos to 5908
+Reduced 808 texdatas to 606 (39805 bytes to 29607)
+Writing c:\csgo\csgo_de_arco\de_arco.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\csgo\csgo_de_arco\de_arco.bsp', but we don't own that location. Allowing...
+9 seconds elapsed
+
+
+
+24 threads
+reading c:\csgo\csgo_de_arco\de_arco.bsp
+reading c:\csgo\csgo_de_arco\de_arco.prt
+1662 portalclusters
+5235 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 13800 visible clusters (0.00%)
+Total clusters visible: 669293
+Average clusters visible: 402
+Building PAS...
+Average clusters audible: 1368
+visdatasize:535164  compressed from 691392
+writing c:\csgo\csgo_de_arco\de_arco.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\csgo\csgo_de_arco\de_arco.bsp', but we don't own that location. Allowing...
+3 minutes, 9 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[40 texlights parsed from 'lights.rad']
+
+Loading c:\csgo\csgo_de_arco\de_arco.bsp
+12195 faces
+4 degenerate faces
+2531895 square feet [364592928.00 square inches]
+412 Displacements
+714010 Square Feet [102817552.00 Square Inches]
+12191 patches before subdivision
+115881 patches after subdivision
+WARNING: light_spot at (9384 241 464) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (9384 1341 464) has outer angle larger than 90 degrees! Clamping to 90...
+54 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 10955243, max 1869
+transfer lists:  83.6 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(451648, 408490, 401644)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(84643, 66455, 56588)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(22265, 16279, 12918)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(8922, 6187, 4658)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(4089, 2699, 1943)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(2169, 1346, 922)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(1197, 695, 452)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(687, 371, 229)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(399, 200, 117)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(234, 109, 60)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(137, 59, 31)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(81, 32, 16)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(48, 18, 9)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(28, 10, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(17, 5, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(10, 3, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #17 added RGB(6, 2, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #18 added RGB(3, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #19 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #20 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #21 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0219 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
+0 of 4 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 165/1024         7920/49152    (16.1%) 
+brushes               4039/8192        48468/98304    (49.3%) 
+brushsides           32443/81920      259544/655360   (39.6%) 
+planes               21238/65536      424760/1310720  (32.4%) 
+vertexes             24922/65536      299064/786432   (38.0%) 
+nodes                 5861/65536      187552/2097152  ( 8.9%) 
+texinfos              5908/12288      425376/884736   (48.1%) 
+texdata                606/4096        19392/131072   (14.8%) 
+dispinfos              412/0           72512/0        ( 0.0%) 
+disp_verts           21444/0          428880/0        ( 0.0%) 
+disp_tris            32288/0           64576/0        ( 0.0%) 
+disp_multiblend       4347/0          347760/0        ( 0.0%) 
+disp_lmsamples      558648/0          558648/0        ( 0.0%) 
+faces                12195/65536      682920/3670016  (18.6%) 
+hdr faces            12195/65536      682920/3670016  (18.6%) 
+origfaces             9374/65536      524944/3670016  (14.3%) 
+facebrushes           1136/0            2272/0        ( 0.0%) 
+facebrushlists       12195/0           48780/0        ( 0.0%) 
+leaves                6027/65536      192864/2097152  ( 9.2%) 
+leaffaces            17518/65536       35036/131072   (26.7%) 
+leafbrushes          13429/65536       26858/131072   (20.5%) 
+areas                    9/1024           72/8192     ( 0.9%) 
+surfedges            95225/512000     380900/2048000  (18.6%) 
+edges                61646/256000     246584/1024000  (24.1%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights         54/8192         5400/819200   ( 0.7%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips           1446/32768       14460/327680   ( 4.4%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         25881/65536       51762/131072   (39.5%) 
+cubemapsamples          81/1024         1296/16384    ( 7.9%) 
+overlays               122/1024        42944/360448   (11.9%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]    12712528/0        ( 0.0%) 
+visdata               [variable]      535164/16777216 ( 3.2%) 
+entdata               [variable]      269703/393216   (68.6%) 
+LDR ambient table     6027/65536       24108/262144   ( 9.2%) 
+HDR ambient table     6027/65536       24108/262144   ( 9.2%) 
+LDR leaf ambient      6027/65536      168756/1835008  ( 9.2%) 
+HDR leaf ambient     27020/65536      756560/1835008  (41.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/591016   ( 0.0%) 
+dtl prp lght          [variable]           1/4        (25.0%) 
+HDR dtl prp lght      [variable]           1/4        (25.0%) 
+static props          [variable]           1/310720   ( 0.0%) 
+pakfile               [variable]    40950415/0        ( 0.0%) 
+physics               [variable]     1582322/4194304  (37.7%) 
+physics terrain       [variable]       40892/1048576  ( 3.9%) 
+
+Level flags = 7e
+
+Total triangle count: 33713
+Writing c:\csgo\csgo_de_arco\de_arco.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\csgo\csgo_de_arco\de_arco.bsp', but we don't own that location. Allowing...
+20 minutes, 17 seconds elapsed

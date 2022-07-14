@@ -13,15 +13,11 @@ sonata
 To do:
 build cubemaps
 Update radar 
+Proper nav mesh 
+check prop fade distances 
 
-Paintings in easter egg incorrect
-Proper nav mesh
-disable shadows on tree
-cable slack for train
-prop fade distances
-issue in mid restaurant patio
-un-func detail glass at city office door
-remove triangle clip from CT stairs
-kv file not working?
+smoke on spawn car
+bomb stuck in ct alt
+Change ct spawn positions or facing?
 
 Town name: Fiore Rosso 
